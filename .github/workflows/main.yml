@@ -1,0 +1,52 @@
+#EXTM3U url="https://github.com/testone7/testone7/new/main/filename m3u
+
+###Tv fee###
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/7xf3sR9Z/logo-pluse.png",Pluse Channel 
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/PLUSE
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="📺 PREMIUM PLAY TV", FWDOC
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg" group-title="📺 PREMIUM PLAY TV", FWSPORT
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1  group-title="📺 PREMIUM PLAY TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/SouthernRegion.png",ถิ่นใต้
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1  group-title="📺 PREMIUM PLAY TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ISAANTV.png",ทีวีอีสาน
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
